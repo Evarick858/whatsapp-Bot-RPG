@@ -1,0 +1,32 @@
+{
+    "name": "evarick",
+    "version": "1.0",
+    "description": "Evarick Bot WhatsApp",
+    "main": "index.js",
+    "author": "Evarick",
+    "homepage": "https://chat.whatsapp.com/KhS1xo5FMVj5UQQLKTOl2G",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/evarick/evarick-rpg-bot"
+    },
+    "keywords": ["whatsapp", "bot", "rpg", "game", "evarick"],
+    "scripts": {
+        "authhor": "Evarick",
+        "license": "MIT",
+        "start": "node index.js"
+    },
+
+    "dependencies": {
+        "baileys": "latest",
+        "axios": "^1.4.0",
+        "chalk": "^4.1.2",
+        "pino": "^8.14.1",
+        "readline": "1.3.0"
+    },
+    "social": {
+        "whatsapp": "https://chat.whatsapp.com/KhS1xo5FMVj5UQQLKTOl2G",
+        "discord": "https://discord.gg/HbBGznaR",
+        "youtube": "https://youtube.com/channel/UCKL8nAmqlVJvvPK_LPZJt0g",
+        "instagram": "https://www.instagram.com/evarick1.1"
+    }
+}
